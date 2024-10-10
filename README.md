@@ -58,4 +58,4 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ---
 
-This write-up explains the project in a concise and professional way, making it easy for others to understand the purpose, features, and how to run it.
+
