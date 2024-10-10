@@ -28,7 +28,7 @@ This project is a simple blog platform built using React, demonstrating CRUD (Cr
    ```
 2. Navigate to the project directory:
    ```bash
-   cd react-blog-platform
+   cd blog-platform
    ```
 3. Install the dependencies:
    ```bash
