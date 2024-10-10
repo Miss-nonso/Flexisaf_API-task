@@ -53,9 +53,6 @@ The application will run at `http://localhost:3000`.
 - Implement pagination for better handling of large datasets.
 - Integrate a backend database for permanent storage of blog posts.
 
-## License
-This project is open source and available under the [MIT License](LICENSE).
-
 ---
 
 
